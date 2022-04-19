@@ -27,7 +27,7 @@ A passionate developer, loves to learn new skills, experience of front end and b
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### Github Stats: 
-![](https://github-profile-trophy.vercel.app/?username=ademalagoz&title=Repositories,Commits,PullRequest,Stars,Issues)
+![](https://github-profile-trophy.vercel.app/?username=ademalagoz&title=Repositories,Commits,PullRequest,Stars)
 <!-- https://github-profile-trophy.vercel.app/?username=ademalagoz&title=Stars,Followers -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ademalagoz&show_icons=true&theme=radical"/>
 <img align="left" width="47%" heigth="15%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademalagoz&layout=compact"/> 

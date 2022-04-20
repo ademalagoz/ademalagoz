@@ -6,8 +6,8 @@ A passionate developer, loves to learn new skills, experience of front end and b
 - 🧿 I’m currently learning **Material-ui**
 - 👨‍💻 I’m looking to collaborate on a **full stack web project**
 - ❓ Ask me about **React, Html, Css, JavaScript, Node.js, PostgreSql**
-- 🕵️ More experiences about me **https://www.linkedin.com/in/ademalagoz/**
-- 👉 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ademalagoz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ademalagoz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ademalagozuk@gmail.com)
+- 🕵️ More experiences about me [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ademalagoz//) 
+- 👉 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/ademalagoz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ademalagoz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](ademalagozuk@gmail.com)
 
 ### Languages and Tools: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

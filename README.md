@@ -34,6 +34,6 @@ A passionate developer, loves to learn new skills, experience of front end and b
 <img align="left" width="47%" heigth="15%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademalagoz&layout=compact"/> 
 <br/>
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/76d7dcb6c796999cff50aa22379a1c580ef3e5eaae0b15dcc1b50b5831d1c06f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6573696e"><img src="https://camo.githubusercontent.com/76d7dcb6c796999cff50aa22379a1c580ef3e5eaae0b15dcc1b50b5831d1c06f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6573696e" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=ademalagoz" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" <img src="https://camo.githubusercontent.com/76d7dcb6c796999cff50aa22379a1c580ef3e5eaae0b15dcc1b50b5831d1c06f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6573696e" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=ademalagoz" style="max-width: 100%;"></a>
 
 

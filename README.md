@@ -2,9 +2,9 @@
 
 A passionate developer, loves to learn new skills, experience of front end and back end web development with React, NodeJS and PostgreSQL with Agile methodologies. Great communication skills, good listener, excellent team member. Now looking for a new challenging position to demonstrate and consolidate skills.
 
-- 🎯 I’m currently working on Full Stack Chat Application with Socket.io
+- 👨‍💻 I’m currently working on Full Stack Chat Application with Socket.io
 - 🧿 I’m currently learning **Material-ui**
-- 👨‍💻 I’m looking to collaborate on a **full stack web project**
+- 🎯 I’m looking to collaborate on a **full stack web project**
 - ❓ Ask me about **React, Html, Css, JavaScript, Node.js, PostgreSql**
 - 🕵️ More experiences about me [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ademalagoz//) 
 - 👉 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/ademalagoz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ademalagoz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](ademalagozuk@gmail.com)

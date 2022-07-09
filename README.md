@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Adem
 
-A passionate developer, loves to learn new skills, experience in Front-End & Back-End (Full-Stack) web development with JavaScript, React, NodeJS, PostgreSQL, and Agile methodologies. Great communication skills, excellent team member. 
+A passionate developer, loves to learn new skills, experience in **Front-End & Back-End (Full-Stack)** web development with JavaScript, React, NodeJS, PostgreSQL, and Agile methodologies. Great communication skills, excellent team member. 
 Now looking for a new challenging position to demonstrate and consolidate skills.
 
 - 👨‍💻 I’m currently working on Full Stack Chat Application with Socket.io

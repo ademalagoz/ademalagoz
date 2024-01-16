@@ -1,10 +1,9 @@
 ### Hi there 👋, my name is Adem
 
-A passionate developer, loves to learn new skills, experience in **Front-End & Back-End (Full-Stack)** web development with JavaScript, React, NodeJS, PostgreSQL, and Agile methodologies. Great communication skills, excellent team member. 
+A passionate developer, loves to learn new skills, and experience in **Front-End & Back-End (Full-Stack)** web development with JavaScript, React, NodeJS, NextJS, TypeScript, PostgreSQL, and Agile methodologies. Great communication skills, and excellent team member. 
 Now looking for a new challenging position to demonstrate and consolidate skills.
 
-- 👨‍💻 I’m currently working on Full Stack Recruitment Application
-- 🧿 I’m currently learning **Unit Testing/Jest**
+- 👨‍💻 I’m currently working on Full Stack Recruitment Application.
 - 🎯 I’m looking to collaborate on a **full stack web project-React/Node/Postgresql**
 - ❓ Ask me about **React, Html, Css, JavaScript, Node.js, PostgreSql**
 - 🕵️ More experiences about me [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ademalagoz//) 
